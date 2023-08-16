@@ -1,0 +1,8 @@
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
